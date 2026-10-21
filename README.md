@@ -19,7 +19,6 @@
 
 Sou **Julliana Nunes**, engenheira de software com foco em **backend**. Trabalho com Java, Python, AWS e APIs, conectando aplicações e dados.
 
-- 💻 Atuo com um catálogo de métricas para experimentos A/B.
 - 🧠 Estudo neurociência, cognição e inteligência artificial, explorando como essas áreas se conectam à tecnologia.
 - 📚 No **Julli doesn't know**, compartilho o que aprendo sobre tecnologia, neurociência, filosofia e história.
 - 🧶 Fora do código, também crio com linhas e agulhas de crochê.
@@ -40,8 +39,7 @@ JavaScript · HTML · CSS · React
 | Projeto | O que você encontra |
 | --- | --- |
 | [📚 Julli doesn't know](https://github.com/JullianaNunes/julli-doesnt-know) | Caderno de estudos na web, com conteúdos em Markdown, busca e conexões entre assuntos. Feito com HTML, CSS e JavaScript. |
-| [🎨 Just a Girl Theme](https://github.com/JullianaNunes/just-a-girl-theme) | Tema minimalista para código Python no VS Code. |
-| [🐍 100 Days of Code · Python](https://github.com/JullianaNunes/100-days-of-code-Python) | Repositório de estudos e prática de Python. |
+| [🧶 La Belle de Jour](https://github.com/JullianaNunes/la-belle-de-jour) | Biblioteca digital de receitas de crochê e espaço para projetos do ateliê. Feito com React, Vite e Markdown. |
 
 ## O que estou explorando
 
@@ -63,8 +61,3 @@ JavaScript · HTML · CSS · React
 
 </details>
 
----
-
-<p align="center">
-  <em>Gosto de aprender, conectar ideias e transformar o que descubro em algo que outras pessoas possam usar.</em>
-</p>
